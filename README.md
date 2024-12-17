@@ -33,6 +33,7 @@ Looking forward to collaborating with you!
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimani001&show_icons=true&theme=dark&count_private=true)
+
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimani001&theme=dark&hide_border=false)
 
 ## 📊 Most Used Languages:
@@ -50,6 +51,7 @@ Looking forward to collaborating with you!
  <a href="mailto:chidimma516@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
  <a href="[https://www.linkedin.com/in/ani-chinecherem/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
+
 
 <!--
 dimani001/dimani001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
