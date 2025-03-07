@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hello!+I'm+Chidimma+Ani;Cloud+Security+%26+DevOps+Engineer;Passionate+about+Automation+%26+Cloud+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hello!+I'm+Chinecherem+Chidimma+Ani;Cloud+Security+%26+DevOps+Engineer;Passionate+about+Automation+%26+Cloud+Infrastructure" alt="Typing SVG" />
 </p>
 
 ---
